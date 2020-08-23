@@ -1,2 +1,2 @@
-# PerformanceTests
-JMeter. Load Test.
+# Performance Tests using JMeter
+Load Test.
